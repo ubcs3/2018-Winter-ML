@@ -18,12 +18,12 @@ Our machine learning seminar meets every **Friday 1-2pm in LSK 121**. Please joi
 
 | Date | Topic | Notebook | Presenter |
 | :---: | :---: | :---: | :---: |
-| January 26 | 9. Up and Running with Tensorflow |  | [@patrickwalls](https://github.com/patrickwalls) |
-| February 2 |  | | |
-| February 9 |  | | |
+| January 26 | Up and Running with Tensorflow (Ch. 9) |  | [@patrickwalls](https://github.com/patrickwalls) |
+| February 2 | Introduction to Artificial Neural Networks (Ch. 10) | | [@patrickwalls](https://github.com/patrickwalls) |
+| February 9 | Training Deep Neural Nets (Ch. 11) | | [@asberk](https://github.com/asberk)|
 | February 16 |  | | |
 | February 23 | *Reading Break*  | |
-| March 2 |  | | |
+| March 2 | Convolutional Neural Networks (Ch. 13) | | [@inygy](https://github.com/inygy) |
 | March 9 |  |  | |
 | March 16 |  | | |
 | March 23 |  | | |
