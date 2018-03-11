@@ -17,7 +17,7 @@ Our machine learning seminar meets every **Friday 1-2pm in LSK 121**. Please joi
 
 
 | Date | Topic | Presenter |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | January 26 | Up and Running with Tensorflow (Ch. 9) | [@patrickwalls](https://github.com/patrickwalls) |
 | February 2 | Introduction to Artificial Neural Networks (Ch. 10) | [@patrickwalls](https://github.com/patrickwalls) |
 | February 9 | *No meeting* |  |
@@ -26,5 +26,5 @@ Our machine learning seminar meets every **Friday 1-2pm in LSK 121**. Please joi
 | March 2 | Training Deep Neural Nets (Ch. 11) | [@asberk](https://github.com/asberk)|
 | March 9 | Convolutional Neural Networks (Ch. 13) | [@inygy](https://github.com/inygy) |
 | March 16 | Convolutional Neural Networks (Continued) (Ch. 13) | [@inygy](https://github.com/inygy) |
-| March 23 | Pytorch | [sempwn](https://github.com/sempwn) |
+| March 23 | Pytorch | [@sempwn](https://github.com/sempwn) |
 | March 30 | | |
