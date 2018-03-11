@@ -16,15 +16,15 @@ The UBC Scientific Software Seminar brings together students, graduates, fellows
 Our machine learning seminar meets every **Friday 1-2pm in LSK 121**. Please join the [UBCS3 mailing list](https://ubc.ca1.qualtrics.com/jfe/form/SV_6VCa1EYL5xjlUQ5) to receive weekly updates about the seminar.
 
 
-| Date | Topic | Notebook | Presenter |
+| Date | Topic | Presenter |
 | :---: | :---: | :---: | :---: |
-| January 26 | Up and Running with Tensorflow (Ch. 9) |  | [@patrickwalls](https://github.com/patrickwalls) |
-| February 2 | Introduction to Artificial Neural Networks (Ch. 10) | | [@patrickwalls](https://github.com/patrickwalls) |
-| February 9 | *No meeting* |  |  |
-| February 16 | *No meeting* |  |  |
+| January 26 | Up and Running with Tensorflow (Ch. 9) | [@patrickwalls](https://github.com/patrickwalls) |
+| February 2 | Introduction to Artificial Neural Networks (Ch. 10) | [@patrickwalls](https://github.com/patrickwalls) |
+| February 9 | *No meeting* |  |
+| February 16 | *No meeting* |  |
 | February 23 | *Reading Break*  | |
-| March 2 | Training Deep Neural Nets (Ch. 11) | | [@asberk](https://github.com/asberk)|
-| March 9 | Convolutional Neural Networks (Ch. 13) | | [@inygy](https://github.com/inygy) |
-| March 16 |  | | |
-| March 23 |  | | |
-| March 30 |  | | |
+| March 2 | Training Deep Neural Nets (Ch. 11) | [@asberk](https://github.com/asberk)|
+| March 9 | Convolutional Neural Networks (Ch. 13) | [@inygy](https://github.com/inygy) |
+| March 16 | Convolutional Neural Networks (Continued) (Ch. 13) | [@inygy](https://github.com/inygy) |
+| March 23 | Pytorch | [sempwn](https://github.com/sempwn) |
+| March 30 | | |
