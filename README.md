@@ -27,4 +27,4 @@ Our machine learning seminar meets every **Friday 1-2pm in LSK 121**. Please joi
 | March 9 | Convolutional Neural Networks (Ch. 13) | [@inygy](https://github.com/inygy) |
 | March 16 | Convolutional Neural Networks (Continued) (Ch. 13) | [@inygy](https://github.com/inygy) |
 | March 23 | Pytorch | [@sempwn](https://github.com/sempwn) |
-| March 30 | | |
+| March 30 | Distributing Tensorflow Graphs Across Local and Networked Devices | [Nate Bade](http://www.math.ubc.ca/~bade.n) |
